@@ -2,4 +2,6 @@
 __MACOSX\dataset_heads\*
 __MACOSX/*
 data/*
-.ipynb/*
+.ipynb_checkpoints/*
+.Trashes/*
+.fseventsd/*
