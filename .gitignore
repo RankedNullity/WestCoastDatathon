@@ -1,7 +1,28 @@
 .vscode/*
 __MACOSX\dataset_heads\*
+<<<<<<< HEAD
+__MACOSX/
+*.ipynb_checkpoints/
+._demographics.csv
+._weather.csv
+data/boston_bikeshare.csv
+data/boston_bikeshare.csv.zip
+data/demographics.csv
+data/mta.csv.zip
+data/nyc_bikeshare.csv
+data/nyc_bikeshare.csv.zip
+data/nyc_green_taxi.csv.zip
+data/nyc_rideshare.csv
+data/nyc_rideshare.csv.zip
+data/nyc_yellow_taxi.csv.zip
+data/sf_bikeshare.csv
+data/sf_bikeshare.csv.zip
+data/weather.csv
+
+=======
 __MACOSX/*
 .ipynb_checkpoints/*
 .fseventsd/*
 .Trashes/*
 data/*
+>>>>>>> 0635ecebe69b67bb0317c4b9f01b2eb8ea56593d
