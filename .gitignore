@@ -1,7 +1,3 @@
 .vscode/*
 __MACOSX\dataset_heads\*
 __MACOSX/*
-data/*
-.ipynb_checkpoints/*
-.Trashes/*
-.fseventsd/*
